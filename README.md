@@ -35,26 +35,28 @@ Curso **Sistemas de Informação** e compartilho conhecimento técnico sobre mon
 
 **Bancos de Dados**
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 **Observabilidade & Monitoramento**
 
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Site24x7](https://img.shields.io/badge/Site24x7-1B72E8?style=for-the-badge&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+[![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)](https://www.zabbix.com/)
+[![Site24x7](https://img.shields.io/badge/Site24x7-1B72E8?style=for-the-badge&logoColor=white)](https://www.site24x7.com/)
+[![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
 
 **Sistemas & Automação**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 **IA no fluxo de trabalho**
 
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+[![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 
 ## 🎓 Certificações
 
@@ -70,11 +72,11 @@ Curso **Sistemas de Informação** e compartilho conhecimento técnico sobre mon
 
 | Projeto | Descrição |
 |---|---|
-| [oracle-clone-usuario](https://github.com/SEU_USUARIO/oracle-clone-usuario) | Automação PL/SQL interativa de clonagem de usuário Oracle com validação de segurança |
-| [oracle-tablespace-growth-report](https://github.com/SEU_USUARIO/oracle-tablespace-growth-report) | Relatório de tablespace com previsão de crescimento e sugestão automática de expansão |
-| [oracle-lock-diagnostics](https://github.com/SEU_USUARIO/oracle-lock-diagnostics) | Diagnóstico completo de locks e sessões bloqueadoras (single instance e RAC) |
-| [oci-announcements-report](https://github.com/SEU_USUARIO/oci-announcements-report) | Automação bash que consolida OCI Announcements de múltiplos clientes |
-| [oracle-env-menu](https://github.com/SEU_USUARIO/oracle-env-menu) | Menu interativo de ambientes Oracle (CDB/PDB) em bash |
+| [oracle-clone-usuario](https://github.com/AloisioRamon/oracle-clone-usuario) | Automação PL/SQL interativa de clonagem de usuário Oracle com validação de segurança |
+| [oracle-tablespace-growth-report](https://github.com/AloisioRamon/oracle-tablespace-growth-report) | Relatório de tablespace com previsão de crescimento e sugestão automática de expansão |
+| [oracle-lock-diagnostics](https://github.com/AloisioRamon/oracle-lock-diagnostics) | Diagnóstico completo de locks e sessões bloqueadoras (single instance e RAC) |
+| [oci-announcements-report](https://github.com/AloisioRamon/oci-announcements-report) | Automação bash que consolida OCI Announcements de múltiplos clientes |
+| [oracle-env-menu](https://github.com/AloisioRamon/oracle-env-menu) | Menu interativo de ambientes Oracle (CDB/PDB) em bash |
 
 ## 🌐 Conecte-se comigo
 
@@ -84,8 +86,13 @@ Curso **Sistemas de Informação** e compartilho conhecimento técnico sobre mon
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&locale=pt-br)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AloisioRamon&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloisioRamon&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Top Langs" />
+
+</div>
 
 ## 💡 Sobre mim
 
